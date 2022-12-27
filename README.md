@@ -34,7 +34,7 @@
 - Gradle
 
 # ERD
-![ERD](./neos_erd.jpg)
+![ERD](./NEOS_ERD.png)
 
 # 프로젝트를 진행하면서
 어려웠던 부분 :
