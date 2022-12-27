@@ -34,7 +34,7 @@
 - Gradle
 
 # ERD
-file:///C:/Users/slion/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/NEOS_%EC%B5%9C%EC%A2%85.html
+![ERD](./NEOS.drawio.png)
 
 # 프로젝트를 진행하면서
 어려웠던 부분 :
