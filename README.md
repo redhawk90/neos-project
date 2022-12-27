@@ -34,7 +34,7 @@
 - Gradle
 
 # ERD
-![ERD](./NEOS_최종.html)
+![ERD](./neos_erd)
 
 # 프로젝트를 진행하면서
 어려웠던 부분 :
