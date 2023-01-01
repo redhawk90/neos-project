@@ -50,4 +50,6 @@
 # ERD
 ![ERD](./NEOS_ERD.png)
 
+# 프로젝트 소개
+!(./1.jpeg)
 
